@@ -1,5 +1,5 @@
-![GitHub package.json version](https://img.shields.io/github/package-json/v/jefferson1984/projeto-lista-item)
-![GitHub language count](https://img.shields.io/github/languages/count/jefferson1984/projeto-lista-item)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/jefferson1984/projeto-navBar)
+![GitHub language count](https://img.shields.io/github/languages/count/jefferson1984/projeto-navBar)
 
 ## Projeto NavBar.
 
@@ -11,9 +11,9 @@ useState , useEffect , useRef e Condicional
 
 ## Imagem do Projeto
 
-[projeto-lista-item.netlify.app](https://projeto-lista-item.netlify.app/)
+[projeto-navbar.netlify.app](https://projeto-navbar.netlify.app/)
 
-<img src="https://github.com/jefferson1984/projeto-lista-item/blob/main/listaadd2.png">
+<img src="https://github.com/jefferson1984/projeto-navBar/blob/main/navbar2.png">
 
 ## Reproduzir
 
