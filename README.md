@@ -15,7 +15,7 @@ useState , useEffect , useRef e Condicional
 
 <img src="https://github.com/jefferson1984/projeto-navBar/blob/main/navbar2.png">
 
-## Reproduzir
+## Reproduzi-lo
 
 <ul>
   <li>Para replicar o projeto em sua máquina local siga o seguintes passos:</li>
